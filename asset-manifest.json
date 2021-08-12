@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Lista-De-Compras-conREACT/static/css/main.2561c073.chunk.css",
+    "main.js": "/Lista-De-Compras-conREACT/static/js/main.e4750dd3.chunk.js",
+    "main.js.map": "/Lista-De-Compras-conREACT/static/js/main.e4750dd3.chunk.js.map",
+    "runtime-main.js": "/Lista-De-Compras-conREACT/static/js/runtime-main.99bc015f.js",
+    "runtime-main.js.map": "/Lista-De-Compras-conREACT/static/js/runtime-main.99bc015f.js.map",
+    "static/css/2.86fbe410.chunk.css": "/Lista-De-Compras-conREACT/static/css/2.86fbe410.chunk.css",
+    "static/js/2.221695e4.chunk.js": "/Lista-De-Compras-conREACT/static/js/2.221695e4.chunk.js",
+    "static/js/2.221695e4.chunk.js.map": "/Lista-De-Compras-conREACT/static/js/2.221695e4.chunk.js.map",
+    "index.html": "/Lista-De-Compras-conREACT/index.html",
+    "precache-manifest.31f5e0c659967a95da5b52cd251612ab.js": "/Lista-De-Compras-conREACT/precache-manifest.31f5e0c659967a95da5b52cd251612ab.js",
+    "service-worker.js": "/Lista-De-Compras-conREACT/service-worker.js",
+    "static/css/2.86fbe410.chunk.css.map": "/Lista-De-Compras-conREACT/static/css/2.86fbe410.chunk.css.map",
+    "static/css/main.2561c073.chunk.css.map": "/Lista-De-Compras-conREACT/static/css/main.2561c073.chunk.css.map",
+    "static/js/2.221695e4.chunk.js.LICENSE.txt": "/Lista-De-Compras-conREACT/static/js/2.221695e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99bc015f.js",
+    "static/css/2.86fbe410.chunk.css",
+    "static/js/2.221695e4.chunk.js",
+    "static/css/main.2561c073.chunk.css",
+    "static/js/main.e4750dd3.chunk.js"
+  ]
+}
